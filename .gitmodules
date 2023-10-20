@@ -1,0 +1,3 @@
+[submodule "improved-eureka"]
+	path = improved-eureka
+	url = git@github.com:otaku-tekkurai/improved-eureka.git
